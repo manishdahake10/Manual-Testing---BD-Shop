@@ -1,4 +1,4 @@
-# Manual Testing (BD Shop)
+# Manual Testing [BD Shop](https://www.bdshop.com/)
 
 This repository contains **test artifacts** for the **manual testing** of the **BD Shop** e-commerce web application. The primary focus of this testing effort has been on the **sign up** and **sign in** modules, ensuring smooth user registration and login experiences. The repository includes **mindmaps**, **test execution reports**, **test cases**, and **test metrics** to effectively plan, execute, and track the testing activities for BD Shop.
 
